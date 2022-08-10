@@ -18,6 +18,8 @@ Rank	EHR Vendor	# of Installs	% of Market Share
 8.	Propriety software	116	1.80%
 9.	athenahealth	78	1.21%
 10.	Allscripts	36	.56%
+
+
 Fig. 1 - Data from Definitive Healthcare HospitalView product. Data is propriety and updated on a continuous basis. Data accurate as of June 20, 2022.
 
 ### Key players in EHR
